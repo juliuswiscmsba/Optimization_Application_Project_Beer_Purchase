@@ -1,1 +1,1 @@
-# Optimization_Application_Project_Beer_Purchase
+Beer data from Kaggle: https://www.kaggle.com/ruthgn/beer-profile-and-ratings-data-set/code
